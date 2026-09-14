@@ -2,6 +2,15 @@
 
 A Java/Greenfoot game prototype that explores player movement, enemies, collision detection, equipment, and animated weapon combat.
 
+## Quick Start
+
+1. Install [Greenfoot](https://www.greenfoot.org/download).
+2. Download and extract this repository.
+3. Launch it:
+   - **Windows:** double-click `open-project.bat`
+   - **macOS/Linux:** run `chmod +x open-project.sh && ./open-project.sh`
+4. Click **Compile**, then **Run** in Greenfoot.
+
 ## Highlights
 
 - Player and enemy actors with movement logic
