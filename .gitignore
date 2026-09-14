@@ -1,0 +1,6 @@
+*.class
+*.ctxt
+doc/
+logfile.txt
+.DS_Store
+Thumbs.db
