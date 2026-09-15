@@ -36,6 +36,8 @@ Light lives in the enchanted forest with the other lighteners. The shadows, exil
 
 ## Quick Start
 
+HOW I START: HAVE GREENFOOT INSATLLED, DOUBLE CLICK GREENFOOT FILE, RUN(not full game)
+
 1. Install [Greenfoot](https://www.greenfoot.org/download).
 2. Download or clone this repository.
 3. Launch the project:
